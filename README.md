@@ -160,7 +160,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is part of a Final Year Project (FYP).
+This project is part of a Final Year Project (FYP). All rights reserved.
 
 ---
 
