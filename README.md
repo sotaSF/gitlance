@@ -1,13 +1,13 @@
 <div align="center">
   <h1>🚀 GitLance</h1>
-  <p><strong>Build. Collaborate. Ship — Smarter.</strong></p>
+  <p><strong>Build. Collaborate. Ship.</strong></p>
   <p>An AI-powered freelance platform that connects developers and clients through GitHub-integrated projects with real-time collaboration, transparent progress tracking, and smart project management.</p>
   
   <a href="#-features">Features</a> •
   <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> •
   <a href="#-getting-started">Getting Started</a> •
   <a href="#-project-structure">Project Structure</a> •
-  <a href="#-contributing">Contributing</a>
+  <a href="#-license">License</a>
 </div>
 
 ---
@@ -143,18 +143,6 @@ gitlance/
 ├── constants/                    # App constants
 └── public/                       # Static assets
 ```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ---
 
