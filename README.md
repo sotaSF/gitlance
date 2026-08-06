@@ -57,7 +57,6 @@ Only approved team members can access project repositories securely with bank-le
 - [Node.js](https://nodejs.org/) (v18 or higher)
 - [npm](https://www.npmjs.com/) or [pnpm](https://pnpm.io/)
 - A [Supabase](https://supabase.com/) account
-- A [Google AI Studio](https://makersuite.google.com/) API key (for AI features)
 
 ### Installation
 
@@ -78,7 +77,6 @@ Only approved team members can access project repositories securely with bank-le
    ```env
    NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
    NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=your_supabase_anon_key
-   GEMINI_API_KEY=your_gemini_api_key
    ```
 
 4. **Run the development server**
