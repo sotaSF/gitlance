@@ -44,7 +44,6 @@ Only approved team members can access project repositories securely with bank-le
 | **UI Components** | [shadcn/ui](https://ui.shadcn.com/), [Radix UI](https://www.radix-ui.com/) |
 | **Animations** | [Motion](https://motion.dev/) (Framer Motion) |
 | **Backend/Auth** | [Supabase](https://supabase.com/) |
-| **AI Integration** | [Google Generative AI](https://ai.google.dev/) |
 | **GitHub API** | [Octokit](https://github.com/octokit/octokit.js) |
 | **Form Handling** | [React Hook Form](https://react-hook-form.com/) + [Zod](https://zod.dev/) |
 | **State Management** | [Zustand](https://zustand-demo.pmnd.rs/) |
